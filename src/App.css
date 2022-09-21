@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.border-box {
+  border: 1px;
+  border-style: solid;
+  border-color:white;
+}
+
+.header-title {
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  margin: 1em;
+  padding: 1em;
+}
+
+.create-post {
+  width: 90%;
+  border: 2px;
+  border-style: solid;
+  border-color: grey;
+  position: relative;
+  margin: 1em;
+  border-radius: 12px;
+  box-shadow: 5px 10px #888888
+}
+
+.username-post {
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  margin: 1em;
+  padding: 1em;
+}
+
+.button-create {
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+}
