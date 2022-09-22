@@ -1,0 +1,12 @@
+.border-box {
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    margin: 1em;
+    padding: 1em;
+  }
+
+.title-header {
+    text-align: left;
+
+}
