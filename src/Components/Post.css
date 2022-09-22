@@ -1,0 +1,86 @@
+.like{
+    background-color: slategrey;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 24px;
+}
+
+.liked{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 24px;
+}
+
+
+.dislike{
+    background-color: slategray;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 24px;
+}
+
+.disliked{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 24px;
+}
+
+.post-border {
+    display: flex;   
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 90%;
+    border: 2px;
+    border-style: solid;
+    border-color: grey;
+    position: relative;
+    margin: 1em;
+    border-radius: 12px;
+    box-shadow: 5px 10px #888888
+  }
+
+.post-nametext {
+    font-size: large;
+    font-weight: 500;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+.post-posttext {
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+.button-border {
+    border: 1px;
+    border-style: solid;
+    border-color:white;
+}
